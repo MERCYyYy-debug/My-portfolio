@@ -150,9 +150,9 @@ background-color: #ec4899;
 }
 
 .numb{
-    word-spacing: 30px;
+    word-spacing: 20px;
     font-size: 1rem; 
-    margin-left: 5px;
+    /* margin-left: 10px; */
 }
 
 
